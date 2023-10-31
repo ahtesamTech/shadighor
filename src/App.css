@@ -1,0 +1,12 @@
+.check-square li:after {
+    content: '\f058';
+    position: absolute;
+    left: 0;
+    top: 1px;
+    width: 11px;
+    height: 17.5px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: FontAwesome;
+    color: #f1494c;
+}
