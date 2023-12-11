@@ -33,7 +33,7 @@ const PlanCard = () => {
 
 
     return (
-        <div className="flex flex-col sm:flex-row justify-center items-center gap-10">
+        <div className="flex flex-col lg:flex-row justify-center items-center gap-5 md:gap-10">
              <Card color="red" variant="gradient" className="w-full max-w-[20rem] p-8">
       <CardHeader
         floated={false}
@@ -124,7 +124,7 @@ const PlanCard = () => {
           color="white"
           className="mt-6 flex justify-center gap-1 text-7xl font-normal"
         >
-          <span className="mt-2 text-4xl">$</span>350{" "}
+          <span className="mt-2 text-4xl">$</span>750{" "}
           <span className="self-end text-4xl">/Year</span>
         </Typography>
       </CardHeader>

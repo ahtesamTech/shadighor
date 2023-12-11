@@ -17,7 +17,7 @@ const DownloadApp = () => {
 
         <div>
             <p>Connect With Us</p>
-            <h1 className='text-blue-600 text-4xl'>ShadiGhor.com <span className='text-red-500 text-4xl'>App</span></h1>
+            <h1 className='text-blue-600 text-xl sm:text-4xl'>ShadiGhor.com <span className='text-red-500 text-xl sm:text-4xl'>App</span></h1>
         </div>
 
             <div>
